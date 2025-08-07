@@ -1,4 +1,8 @@
 # iitb.html
+my-landing-page-repo/
+├── index.html ✅ (must be here, not inside a folder)
+├── style.css
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
