@@ -1,6 +1,6 @@
 # iitb.html
-my-landing-page-repo/
-├── index.html ✅ (must be here, not inside a folder)
+project/
+├── index.html
 ├── style.css
 
 <!DOCTYPE html>
